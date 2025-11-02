@@ -1,4 +1,4 @@
-PortGen – Interactive Portfolio Builder\n
+PortGen – Interactive Portfolio Builder
 Website Name: PortGen
 Application Type: Web-Based Portfolio Builder
 
@@ -26,3 +26,4 @@ MVC (Model–View–Controller)
 Testing:
 
 Unit tests for form validation, data handling, and portfolio generation logic
+
